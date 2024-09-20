@@ -4,7 +4,7 @@
   "description": "a basic app create",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "dev": "node index.js"
   },
   "keywords": [
     "node",
